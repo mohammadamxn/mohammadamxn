@@ -1,4 +1,4 @@
-# About Me
+# About Me:
 Hi there! My name is Mohammad, and I am a first year computer science student. I have a passion for coding and am currently exploring the world of programming.
 I have knowledge in various programming languages such as Python, HTML, and CSS. I enjoy working on projects that challenge me and allow me to expand my knowledge and skills.
 
